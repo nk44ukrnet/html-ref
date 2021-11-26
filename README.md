@@ -47,3 +47,9 @@
         search
         send
 ```
+
+### :focus-within selector
+
+check focus-within.html and corresponding styles
+
+When children element has focus - __:focus-within__ (if it is set on the parent) - trigers
