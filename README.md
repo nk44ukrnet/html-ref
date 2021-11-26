@@ -26,3 +26,12 @@
             </datalist>
         </div>
 ```
+
+### fieldset and legend
+
+```
+    <fieldset>
+        <legend>Title</legend>
+        <p></p>
+    </fieldset>
+```
