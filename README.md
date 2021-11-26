@@ -53,3 +53,4 @@
 check focus-within.html and corresponding styles
 
 When children element has focus - __:focus-within__ (if it is set on the parent) - trigers
+full text from this repo (outer): https://gist.github.com/prof3ssorSt3v3/7cf96e740e470ab87bfa637faeb7a83b
