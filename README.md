@@ -4,7 +4,7 @@
 
 `<a href="img/img.png" download >Download image</a>`
 
-### build in drop menu
+### built in drop menu
 
 ```
 <!-- <details __open__> to make it open by default. To style arrow color use details::marker { color: red; } -->
@@ -13,4 +13,16 @@
             <p>text</p>
         </details>
 
+```
+
+### buit in input search dropdown
+
+```
+        <div>
+            <input type="text" list="list1">
+            <datalist id="list1">
+                <option value="value 1" />
+                <option value="value 2" />
+            </datalist>
+        </div>
 ```
