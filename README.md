@@ -35,3 +35,15 @@
         <p></p>
     </fieldset>
 ```
+### additional attributes for inputs (visible on mobile only && newest versions of browser)
+
+```
+ enterkeyhint=""
+        enter
+        done
+        go
+        next
+        previous
+        search
+        send
+```
